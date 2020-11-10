@@ -31,3 +31,7 @@ Currently i'm search for a new job, so if you know something which help me, tell
 [![Twitter: oliverigor98](https://img.shields.io/twitter/url?color=%23ff0000&label=follow%20me%3A%20%40oliverigor98&logo=Twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Foliverigor98)](https://twitter.com/oliverigor98)
 
 [![Linkedin: Igor Bomfim](https://img.shields.io/twitter/url?color=blue&label=Igor%20Bomfim&logo=linkedin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Figor-bomfim-010132188%2F)](https://www.linkedin.com/in/igor-bomfim-010132188/)
+
+## My Stats: 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=igoroliveira98&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
