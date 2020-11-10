@@ -26,7 +26,7 @@ Currently i'm search for a new job, so if you know something which help me, tell
 - ⚾️ I love sports, my favorites be: Football, Basketball and Baseball.
 - 🤘🏻 I love music, Metallica is my favorite band.
 
-## You also can find me in this places:: 
+## You also can find me in this places: 
 
 [![Twitter: oliverigor98](https://img.shields.io/twitter/url?color=%23ff0000&label=follow%20me%3A%20%40oliverigor98&logo=Twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Foliverigor98)](https://twitter.com/oliverigor98)
 
