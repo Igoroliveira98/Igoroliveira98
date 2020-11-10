@@ -34,4 +34,4 @@ Currently i'm search for a new job, so if you know something which help me, tell
 
 ## My Stats: 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=igoroliveira98&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+![Github stats](https://github-readme-stats.vercel.app/api?username=igoroliveira98&hide=issues&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
