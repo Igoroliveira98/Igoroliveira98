@@ -24,7 +24,7 @@ Currently i'm search for a new job, so if you know something which help me, tell
 
 - 📚 I like read books, principally sci-fi, horror and philosophy themes.
 - ⚾️ I love sports, my favorites be: Football, Basketball and Baseball.
-- 🤘🏻 I love music, Metallica is my favorite band.
+- 🤘🏻 I love music.
 
 ## You also can find me in this places: 
 
