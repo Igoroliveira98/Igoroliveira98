@@ -1,4 +1,4 @@
-Hello, my name is Igor Oliveira. I'm a front end developer from Brazil 🇧🇷!
+Hello, my name is Igor Oliveira. I'm a full stack developer from Brazil 🇧🇷!
 
 I begun my journey into the developer's world almost one year, and all days i looking for improve my skills and become the best of myself.
  
@@ -34,4 +34,4 @@ Currently i'm search for a new job, so if you know something which help me, tell
 
 ## My Stats: 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=igoroliveira98&hide=issues&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+![Github stats](https://github-readme-stats.vercel.app/api?username=igoroliveira98&hide=issues&theme=vue&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
