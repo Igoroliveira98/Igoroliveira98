@@ -1,8 +1,8 @@
+![](https://i.pinimg.com/originals/62/6a/af/626aafb4542a2a0d51c496f241c69ca5.gif)
+
 Hello, my name is Igor Oliveira. I'm a full stack developer from Brazil 🇧🇷!
 
 I begun my journey into the developer's world almost one year, and all days i looking for improve my skills and become the best of myself.
- 
-Currently i'm search for a new job, so if you know something which help me, tell me. I'm going to happy for read and hear what you have for me. 😀
 
 ### My Skills:
 
@@ -18,7 +18,6 @@ Currently i'm search for a new job, so if you know something which help me, tell
 ## About me: 
 
  - 👨🏻‍💻 I'm junior developer
- - 🚀 Currently i'm learning about React JS, Ux and Ui Desing and advanced Vanilla JS
 
 ## Another facts about me:
 
