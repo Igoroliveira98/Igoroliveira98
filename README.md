@@ -1,5 +1,3 @@
-![](https://i.pinimg.com/originals/62/6a/af/626aafb4542a2a0d51c496f241c69ca5.gif)
-
 Hello, my name is Igor Oliveira. I'm a full stack developer from Brazil 🇧🇷!
 
 I begun my journey into the developer's world almost one year, and all days i looking for improve my skills and become the best of myself.
